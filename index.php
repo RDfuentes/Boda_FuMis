@@ -61,7 +61,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-2">
-						<div id="fh5co-logo"><a href="index.html"><strong>DyD</strong></a></div>
+						<div id="fh5co-logo"><a href="index.php"><strong>DyD</strong></a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
@@ -161,7 +161,7 @@
 			</div>
 		</div>
 
-		<div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/f4.jpg);">
+		<div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/f7.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">

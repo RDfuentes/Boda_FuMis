@@ -10,6 +10,7 @@
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
 	<meta name="author" content="FREEHTML5.CO" />
+	<link rel="shortcut icon" href="./images/icono.jpg">
 
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="" />
@@ -22,8 +23,7 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet'
-		type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
 
 	<!-- Animate.css -->
@@ -65,19 +65,18 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
-                            <li class="active"><a href="index.php">Inicio</a></li>
-                            <li><a href="history.html">Historia</a></li>
+							<li class="active"><a href="index.php">Inicio</a></li>
+							<li><a href="history.html">Historia</a></li>
 							<li><a href="gallery.html">Galeria</a></li>
-                            <li><a href="contact.html">Contacto</a></li>
-                        </ul>
+							<li><a href="contact.html">Contacto</a></li>
+						</ul>
 					</div>
 				</div>
 
 			</div>
-		</nav> 
+		</nav>
 
-		<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/f1.jpg);"
-			data-stellar-background-ratio="0.5">
+		<header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/f1.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -132,7 +131,7 @@
 						<h3>05 de diciembre de 2021, San Marcos, Guatemala</h3>
 						<p>Celebrar con nosotros este grandioso día</p>
 					</div>
-				</div>
+				</div><br>
 				<div class="couple-wrap animate-box">
 					<div class="couple-half">
 						<div class="groom">
@@ -141,7 +140,7 @@
 						<div class="desc-groom">
 							<h3>David Fuentes</h3>
 							<p style="text-align: justify;">Realmente hay mucho que agradecer a Dios, su fidelidad, amor
-								y misericordia a mi vida a sido grande, estoy muy feliz de poder comprartir toda la vida
+								y misericordia a mi vida, hoy doy gracias a Dios por permitirme comprartir toda la vida
 								con <strong>Daisy Miranda</strong> </p>
 						</div>
 					</div>
@@ -156,12 +155,12 @@
 								y misericordia a mi vida a sido grande, estoy muy feliz de poder comprartir toda la vida
 								con <strong>David Fuentes</strong> </p>
 						</div>
-					</div>
+					</div><br>
 				</div>
 			</div>
 		</div>
 
-		<div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/f7.jpg);">
+		<div id="fh5co-event" class="fh5co-bg" style="background-image:url(images/f4.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -185,8 +184,7 @@
 											<i class="icon-calendar"></i>
 											<span>05 de diciembre de 2021</span>
 										</div>
-										<p>Caracteristicas de la ceremonia</p>
-										<p><a class="btn btn-default btn-sm">Formar parte</a></p>
+										<p><a target="_blank" href="https://www.facebook.com/RonaldFuentes.NewSoft/" class="btn btn-info btn-sm">Formar parte</a></p>
 									</div>
 								</div>
 							</div>
@@ -217,9 +215,7 @@
 										<i class="icon-users"></i>
 									</span>
 
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);"
-										class="counter js-counter" data-from="0" data-to="7" data-speed="5000"
-										data-refresh-interval="50">7</span>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="7" data-speed="5000" data-refresh-interval="50">7</span>
 									<span class="counter-label">Años</span>
 
 								</div>
@@ -230,9 +226,7 @@
 										<i class="icon-user"></i>
 									</span>
 
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);"
-										class="counter js-counter" data-from="0" data-to="84" data-speed="5000"
-										data-refresh-interval="50">84</span>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="84" data-speed="5000" data-refresh-interval="50">84</span>
 									<span class="counter-label">Meses</span>
 								</div>
 							</div>
@@ -241,9 +235,7 @@
 									<span class="icon">
 										<i class="icon-calendar"></i>
 									</span>
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);"
-										class="counter js-counter" data-from="0" data-to="2604" data-speed="5000"
-										data-refresh-interval="50">2604</span>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="2604" data-speed="5000" data-refresh-interval="50">2604</span>
 									<span class="counter-label">Días</span>
 								</div>
 							</div>
@@ -253,9 +245,7 @@
 										<i class="icon-clock"></i>
 									</span>
 
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);"
-										class="counter js-counter" data-from="0" data-to="62496" data-speed="5000"
-										data-refresh-interval="50">62496</span>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="62496" data-speed="5000" data-refresh-interval="50">62496</span>
 									<span class="counter-label">Minutos</span>
 
 								</div>
@@ -266,8 +256,7 @@
 			</div>
 		</div>
 
-		<footer id="fh5co-footer" role="contentinfo"
-			style="background-image: radial-gradient(circle at 14.97% -0.02%, #ff7758 0, #ff6564 10%, #ff516e 20%, #ff3c75 30%, #ff2678 40%, #f10877 50%, #d20074 60%, #b50071 70%, #9b006f 80%, #84006d 90%, #70006c 100%);">
+		<footer id="fh5co-footer" role="contentinfo" style="background-image: radial-gradient(circle at 14.97% -0.02%, #ff7758 0, #ff6564 10%, #ff516e 20%, #ff3c75 30%, #ff2678 40%, #f10877 50%, #d20074 60%, #b50071 70%, #9b006f 80%, #84006d 90%, #70006c 100%);">
 			<div class="container">
 
 				<div class="row copyright">

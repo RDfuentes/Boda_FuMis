@@ -212,9 +212,10 @@
 							<div class="col-md-3 col-sm-6 animate-box">
 								<div class="feature-center">
 									<span class="icon">
-										<i class="icon-users"></i>
+										<i class="icon-calendar"></i>
 									</span>
 
+									<h3>En años</span><br>
 									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="7" data-speed="5000" data-refresh-interval="50">7</span>
 									<span class="counter-label">Años</span>
 
@@ -223,10 +224,11 @@
 							<div class="col-md-3 col-sm-6 animate-box">
 								<div class="feature-center">
 									<span class="icon">
-										<i class="icon-user"></i>
+										<i class="icon-calendar"></i>
 									</span>
 
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="84" data-speed="5000" data-refresh-interval="50">84</span>
+									<h3>En Meses</span><br>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="91" data-speed="5000" data-refresh-interval="50">91</span>
 									<span class="counter-label">Meses</span>
 								</div>
 							</div>
@@ -235,7 +237,9 @@
 									<span class="icon">
 										<i class="icon-calendar"></i>
 									</span>
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="2604" data-speed="5000" data-refresh-interval="50">2604</span>
+
+									<h3>En Días</span><br>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="2821" data-speed="5000" data-refresh-interval="50">2821</span>
 									<span class="counter-label">Días</span>
 								</div>
 							</div>
@@ -245,8 +249,9 @@
 										<i class="icon-clock"></i>
 									</span>
 
-									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="62496" data-speed="5000" data-refresh-interval="50">62496</span>
-									<span class="counter-label">Minutos</span>
+									<h3>En Horas</span><br>
+									<span style="font-size: 40px; color: rgba(191, 21, 95, 0.8);" class="counter js-counter" data-from="0" data-to="67704" data-speed="5000" data-refresh-interval="50">67704</span>
+									<span class="counter-label">Horas</span>
 
 								</div>
 							</div>

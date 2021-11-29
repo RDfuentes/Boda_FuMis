@@ -140,7 +140,7 @@
 						<div class="desc-groom">
 							<h3>David Fuentes</h3>
 							<p style="text-align: justify;">Realmente hay mucho que agradecer a Dios, su fidelidad, amor
-								y misericordia a mi vida, hoy doy gracias a Dios por permitirme comprartir toda la vida
+								y misericordia a mi vida, hoy doy gracias a Dios por permitirme compartir toda la vida
 								con <strong>Daisy Miranda</strong> </p>
 						</div>
 					</div>
@@ -152,7 +152,7 @@
 						<div class="desc-bride">
 							<h3>Daisy Miranda</h3>
 							<p style="text-align: justify;">Realmente hay mucho que agradecer a Dios, su fidelidad, amor
-								y misericordia a mi vida a sido grande, estoy muy feliz de poder comprartir toda la vida
+								y misericordia a mi vida a sido grande, estoy muy feliz de poder compartir toda la vida
 								con <strong>David Fuentes</strong> </p>
 						</div>
 					</div><br>
